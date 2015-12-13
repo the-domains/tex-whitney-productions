@@ -1,6 +1,6 @@
 name: Tex Whitney Productions
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.91103
 typography_spectrum: 0.67766
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.0011301962658762932
-  lightness: 0.8777369579765946
-  saturation: 0.784788137068972
-  rhythmicContrast: 0.4342812751419842
+    - '#ffffff'
+    - '#1d1911'
+    - '#494236'
+    - '#dcd9d4'
+    - '#827b6f'
+  brandStrength: 0.125
+  lightness: 0.9375
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
